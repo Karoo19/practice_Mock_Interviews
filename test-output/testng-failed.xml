@@ -3,13 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="code_7thfeb.Rediff">
+      <class name="code15thfeb.RediffRecording">
         <methods>
-          <include name="rediffTest"/>
-          <include name="openWebSite"/>
-          <include name="tearDown"/>
+          <include name="learningrecording"/>
         </methods>
-      </class> <!-- code_7thfeb.Rediff -->
+      </class> <!-- code15thfeb.RediffRecording -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
